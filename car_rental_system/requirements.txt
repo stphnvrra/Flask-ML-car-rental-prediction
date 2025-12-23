@@ -1,0 +1,10 @@
+Flask
+Bootstrap-Flask
+Flask-SQLAlchemy
+Flask-Hashing
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+SQLAlchemy
